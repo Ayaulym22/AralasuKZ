@@ -1,0 +1,78 @@
+.mb-4 {
+    margin-top: 20px;
+}
+
+.title_name{
+    text-align: center;
+}
+
+.navbar-brand{
+    margin-left: 180px;
+    color: white;
+    font-weight: bolder;
+}
+
+.nav-link{
+    color: white;
+    margin: 0 5px;
+}
+
+.navbar{
+    background-color: #180c7a;
+}
+
+.nav{
+    margin-right: 150px;
+}
+
+.fa{
+    font-size: medium;
+    color: white;
+}
+
+.card-body{
+    background-color: white;
+    color: black;
+}
+
+.card-header{
+    background-color: #17a2b8;
+    font-weight: bolder;
+}
+
+#card-h{
+    background-color: #80bdff;
+}
+
+.list-group-item a{
+    font-weight: bolder;
+}
+
+.btn-outline-primary {
+    color: #180c7a;
+    border-color: #180c7a;
+}
+.btn-outline-primary.disabled,.btn-outline-primary:disabled{color:#180c7a;background-color:transparent;}
+
+.btn-outline-primary:hover {
+    color: #fff;
+    font-weight: bolder;
+    background-color: #180c7a;
+    border-color: #180c7a;
+}
+
+.btn-outline-primary i:hover {
+    color: #180c7a;
+}
+
+
+#fasearch{
+color: #180c7a;
+}
+
+
+
+
+.btn{
+    font-weight: bolder;
+}
